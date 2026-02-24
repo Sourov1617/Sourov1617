@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- HERO BANNER — professional code-on-screen animation -->
-<img src="https://raw.githubusercontent.com/nikhilij/nikhilij/refs/heads/main/boitumelo-CJJdMHz4s5c-unsplash.jpg" width="100%" height="200" style="object-fit:cover; border-radius:12px;"/>
+<img src="https://raw.githubusercontent.com/nikhilij/nikhilij/refs/heads/main/boitumelo-CJJdMHz4s5c-unsplash.jpg" width="100%" height="350" style="object-fit:cover; border-radius:12px;"/>
 
 <!-- GLASS HEADER — ocean-depth twinkling gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:0F2027,35:203A43,55:2C5364,75:203A43,85:0F2027,100:0D1117&height=230&section=header&text=SOUROV%20NANDI&fontSize=58&fontAlignY=32&desc=AI%2FML%20Researcher%20%20%E2%97%86%20%20Deep%20Learning%20Engineer%20%20%E2%97%86%20%20Full-Stack%20Developer&descAlignY=56&descSize=16&fontColor=E6EDF3&descColor=7D8590&animation=twinkling&stroke=58A6FF&strokeWidth=0.5" width="100%"/>
