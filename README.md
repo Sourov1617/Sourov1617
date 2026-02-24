@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- HERO BANNER — professional code-on-screen animation -->
-<img src="https://raw.githubusercontent.com/nikhilij/nikhilij/refs/heads/main/boitumelo-CJJdMHz4s5c-unsplash.jpg" width="100%" height="400" style="object-fit:cover; border-radius:12px;"/>
+<img src="https://raw.githubusercontent.com/nikhilij/nikhilij/refs/heads/main/boitumelo-CJJdMHz4s5c-unsplash.jpg" width="100%" height="200" style="object-fit:cover; border-radius:12px;"/>
 
 <!-- GLASS HEADER — ocean-depth twinkling gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:0F2027,35:203A43,55:2C5364,75:203A43,85:0F2027,100:0D1117&height=230&section=header&text=SOUROV%20NANDI&fontSize=58&fontAlignY=32&desc=AI%2FML%20Researcher%20%20%E2%97%86%20%20Deep%20Learning%20Engineer%20%20%E2%97%86%20%20Full-Stack%20Developer&descAlignY=56&descSize=16&fontColor=E6EDF3&descColor=7D8590&animation=twinkling&stroke=58A6FF&strokeWidth=0.5" width="100%"/>
@@ -109,9 +109,9 @@
 <tr>
 <td width="55%" valign="top">
 
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Jny/giphy.gif" align="right" width="150"/>
+<!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="150"/> -->
 
-Aspiring AI/ML researcher pursuing **B.Tech in Computer Science & Engineering** at **KIIT University** (Class of 2027). My work sits at the intersection of deep learning theory and hardware-efficient deployment — specifically **ReRAM-based DNN acceleration** and **hardware-aware neural architecture optimization**.
+Aspiring AI/ML researcher pursuing **B.Tech in Computer Science & Engineering** at **KIIT University** (Passing year 2026). My work sits at the intersection of deep learning theory and hardware-efficient deployment — specifically **ReRAM-based DNN acceleration** and **hardware-aware neural architecture optimization**.
 
 <br>
 
@@ -130,7 +130,7 @@ Aspiring AI/ML researcher pursuing **B.Tech in Computer Science & Engineering** 
 </td>
 <td width="45%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKsvhY/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
 
 <br>
 
@@ -279,11 +279,11 @@ Aspiring AI/ML researcher pursuing **B.Tech in Computer Science & Engineering** 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/juua9i2c4fWUR2U35c/giphy.gif" width="30"/>&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/>&nbsp;&nbsp;
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=99999&color=E6EDF3&center=true&vCenter=true&width=380&height=38&lines=Featured+Projects" alt="Projects"/>
   </a>
-  &nbsp;&nbsp;<img src="https://media.giphy.com/media/juua9i2c4fWUR2U35c/giphy.gif" width="30"/>
+  &nbsp;&nbsp;<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/>
 </div>
 
 <br>
@@ -737,11 +737,11 @@ Aspiring AI/ML researcher pursuing **B.Tech in Computer Science & Engineering** 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"/>&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="28"/>&nbsp;&nbsp;
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=99999&color=E6EDF3&center=true&vCenter=true&width=350&height=38&lines=GitHub+Analytics" alt="Analytics"/>
   </a>
-  &nbsp;&nbsp;<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"/>
+  &nbsp;&nbsp;<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="28"/>
 </div>
 
 <br>
